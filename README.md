@@ -12,12 +12,14 @@
   </a>
 </p>
 
-🔭 **Sobre Mim**  
+# 🔭 **Sobre Mim**  
 Sou programador apaixonado por C, Linux e, claro, Física! Tenho uma grande admiração por física quântica e sou fascinado pelo estudo dos fenômenos que regem o universo. Além disso, estou sempre em busca de novas descobertas e aprimoramento de minhas habilidades.
 
-🎓 **Universidade**  
+# 🎓 **Universidade**  
 Atualmente, estou estudando na **UFMT** no curso de **Engenharia da Computação**.
 
+# 📖 **Literatura**
+Sou um amante de livros, principalmente os de terror.
 _"De todas as cidades da Terra, Celephais era a mais sublime, a mais pura. Era onde os sonhos dos homens se tornavam realidade. Nela, eu repousava em paz, longe das aflições do mundo."_  
 — *H.P. Lovecraft, Celephais*  
 
