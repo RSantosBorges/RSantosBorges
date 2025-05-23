@@ -1,15 +1,10 @@
 # 👨‍💻 Bem-vindo ao meu perfil!
 
 <p align="center">
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-%23FF0000.svg?style=flat&logo=linux&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="OS: Windows" height="40" />
+  <img src="https://img.shields.io/badge/Language-C-black?style=for-the-badge&logo=c&logoColor=white" alt="Language: C" height="40" />
+  <img src="https://img.shields.io/badge/Language-C++-darkgreen?style=for-the-badge&logo=c&logoColor=white" alt="Language: C++" height="40" />
+  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux" alt ="OS: Linux" height = "40"/>
 </p>
 
 # 🔭 **Sobre Mim**  
