@@ -55,6 +55,7 @@ Sinta-se à vontade para entrar em contato comigo:
 
 🔗 **Links úteis**  
 - [Repositórios no GitHub](https://github.com/RSantosBorges)
+- [Projeto Final de AED II](https://github.com/C-harp5/Projeto_final_AED2)
 
 ---
 
